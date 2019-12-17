@@ -6,8 +6,9 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>{{ $page->siteTitle }}</title>
         <link rel="stylesheet" href="{{ mix('/css/main.css') }}">
+        @yield('style')
     </head>
-    <body class="antialiased font-sans">
+    <body class="antialiased font-sans container w-screen mx-auto bg-gray-100">
         @yield('content')
     </body>
 </html>

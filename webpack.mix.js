@@ -3,7 +3,6 @@ let tailwind = require('tailwindcss');
 let build = require('./tasks/build.js');
 require('laravel-mix-purgecss');
 
-mix.disableSuccessNotifications();
 mix.setPublicPath('source/assets/');
 mix.webpackConfig({
   plugins: [
