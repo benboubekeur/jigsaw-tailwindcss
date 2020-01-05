@@ -41,31 +41,21 @@
                 </div>
                 <hr class="border-t border-b-0 border-white-800 w-full  my-10">
                 <div class="w-full">
-                    <div class="font-light text-5xl text-gray-700 text-right">
+                    <div class="font-light text-5xl text-gray-100 text-right">
                         Professional work
                     </div>
                     <div class="font-light text-2xl text-white text-justify">
-                        Through the years i had the chance to participate in many projects.
+                        Through the years i had the chance to participate in many projects in defferents fields
+                        :  Health, education... .
                     </div>
-                    <div>
-                        <h2 class="font-bold text-3xl text-gray-700 text-justify">Transportation</h2>
-                        <div class="font-light text-2xl text-white text-justify">
-                            Full lifecycle app for receiving cargo shipping orders,
-                            processing pickups and deliveries, and generating bills of lading.
-                            Internal/external APIs connecting various systems.
-                        </div>
-                        <h3 class="font-bold text-3xl text-white text-left"> Tech</h3>
-                        <div class="italic semi-bold text-gray-700 text-1xl">
-                            Laravel/PHP • Vue.js/JavaScript • TailwindCSS.
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </div>
         <div id="bio" class="sm:w-1/3 mx-4  px-4 bg-gray-200 w-full mb-10 pt-10">
             <div class="flex flex-col items-center justify-center">
                 <div class="mx-auto">
-                    <img src="{{  'assets/images/profile.jpg'  }}" alt="Picture of me" title="Picture of me"
+                    <img src="{{  'assets/images/me.jpg'  }}" alt="Picture of me" title="Picture of me"
                          class=" mx-auto rounded-full border-8 border-double border-gray-700 w-64 h-64">
                 </div>
                 <div>
