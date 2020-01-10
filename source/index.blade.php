@@ -3,7 +3,7 @@
 @section('style')
     <style>
         div {
-            /* border: solid ; */
+            
         }
     </style>
 @endsection
